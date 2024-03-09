@@ -77,6 +77,3 @@ class TestAbs(unittest.TestCase):
             # закрываем браузер после всех манипуляций
             browser.quit()
 
-
-if __name__ == "__main__":
-    unittest.main()
